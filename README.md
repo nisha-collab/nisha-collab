@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisha Singh</h1>
+<h1 align="center">Hi 👋, I'm Nisha Pal</h1>
 <h3 align="center">A Passionate Developer | AI Explorer | Tech Tinkerer</h3>
 
 <p align="center">
