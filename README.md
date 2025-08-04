@@ -45,14 +45,21 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Contributions
 
-<a href="https://badgr.com/public/assertions" target="_blank">
-  <img src="https://github.com/nisha-collab/nisha-collab/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-08-04%20(1).png?raw=true" alt="Postman Student Expert Badge" width="180"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/nisha-collab/nisha-collab/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-08-04%20(1).png?raw=true" width="160"/><br/>
+      <sub><b>Postman Student Expert</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nisha-collab/nisha-collab/blob/main/Contributor's%20badge.jpg?raw=true" width="160"/><br/>
+      <sub><b>GSSoC 2025 Contributor</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Postman Student Expert**  
-_Earned during GSSoC 2025 — My First Open Source Contribution!_
 
 
 ---
